@@ -1,0 +1,34 @@
+body{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(#36ff24,#8af3e2);
+    height: 100vh;
+}
+
+.main_text{
+    padding: 10px 20px;
+    font-size: 32px;
+    box-shadow: 0 0 5px 2px rgba(63, 18, 105, 0.925);
+    color: rgb(255, 255, 255);
+    text-shadow: 0 0 10px #660066;
+    color: #660066;
+    font-weight: bolder;
+    font-family: cursive;
+}
+.output{
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 32px;
+    box-shadow: 0 0 5px 2px rgba(63, 18, 105, 0.925);
+    text-shadow: 0 0 10px #660066;
+    color: #660066;
+    font-weight: bolder;
+    font-family: cursive;
+}
